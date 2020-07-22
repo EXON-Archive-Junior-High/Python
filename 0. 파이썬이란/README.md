@@ -6,4 +6,5 @@
 2. 다운 받은 exe 파일을 실행합니다.
 3. Add Python 3.8 to PATH 을 체크합니다.
 <img src="../images/install1.png">
-4. 
+4. Install Now를 클릭하세요.
+5. 설치를 진행합니다.
