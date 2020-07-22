@@ -17,7 +17,7 @@
 와! 그러면 vsc(Visaul Studio Code)가 설치되었네요!
 이제 파이썬을 프로그래밍할 확장 기능을 설치해봅시다.
 4. Ctrl + Shift + X 또는 왼쪽 상단에 이러한 모양을 클릭해줍니다. <br>
-<img src="../images/install2.png">
-5. Python 을 검색합니다.
+<img src="../images/install2.png"> 
+5. Python 을 검색합니다. <br>
 6. Python 이라고 써져있는 곳에 install 버튼을 클릭합니다.
 자! 이제 파이썬 개발 환경을 모두 설치하였습니다!
